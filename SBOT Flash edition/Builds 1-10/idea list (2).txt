@@ -1,0 +1,38 @@
+User accounts
+Owner
+Admin
+Moderator
+Guest
+
+Data furnace
+shows apps as categories
+
+event log
+tracks everything, dates, times, information
+master log records everything
+
+explorer
+disk
+[ start of drive ] ---------> [ end of drive ]
+system folder is locked. Will cause an OSOD if opened
+factory reset option
+user menu
+
+begin menu
+make all menu buttons work
+
+alarm
+shows seconds
+
+stopwatch
+modify to operate like my other builds 
+
+paint program
+make functional
+paint tool (doesn't work)
+save tool (doesn't work)
+
+DOS mode
+add hello world for startup
+make it similar to BASIC
+
