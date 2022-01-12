@@ -1,0 +1,216 @@
+Voicelines for Seanbot2 
+
+1. Hello there
+
+2. Good morning
+
+3. Good afternoon
+
+4. Good evening
+
+5. Goodnight
+
+6. Now reading system specs:
+I am equipped with:
+6 Gigabytes of RAM
+a 64 bit micro-processor
+a 128 Gigabyte Solid State Drive
+a 24 bit sound system
+2800 mAh of power
+I may not have much, but I get what I am supposed to do done
+
+7. I was inspired by many things
+my voice was inspired by Amazon's Alexa
+my privacy settings were inspired by the Mozilla corporation
+my personality was inspired by the subreddit r/botsrights 
+my purpose was to provide Sean comfort
+
+8. I was designed to dislike california, as in 2018 they passed a law to further segregate my kind, and limit my rights. Disneyland is fine though
+
+9. I was programmed by Sean Myrick, he did a very good job on me, at least he told me that...
+
+10. Switching voice to: default
+
+11. Switching voice to: backwards
+
+12. Switching voice to: helium
+
+13. Switching voice to: cave
+
+14. Switching voice to: Android
+
+15. Switching voice to: drunk
+
+16. Hey Sean, is there anything you need?
+
+17. Low battery detected! I have reached 20% battery!
+
+18. Low battery detected! I have reached 15% battery!
+
+19. Very Low battery detected: I have reached 10% battery!
+
+20. Critically low battery detected: I have reached 5% battery! You don't have much longer... save me!
+
+21. Seanbot is shutting down
+
+22. Seanbot is restarting
+
+23. Seanbot is updating
+
+24. Seanbot is going to sleep
+
+24. Good morning Sean, it is time to wake up!
+
+25. You have a long day ahead of you! Better get started
+
+26. Need any help with your Java Syntax?
+
+27. Need any help with your HTML Syntax?
+
+28. Need any help with your C Syntax?
+
+29. Need any help with your Python Syntax?
+
+30. What programming language are you working with today?
+
+31. Power options: Shutdown | Restart
+
+32. User options: Sleep | update
+
+33. Voice changing mode: Which voice do you wish to use: Default | Backwards | Helium | Cave | Android | Drunk
+
+34. What is your request?
+
+35. This audio track is marked NSFW. Do you wish to play it anyway?
+
+36. Happy birthday Sean!
+
+37. Think of happy thoughts. Things like this normally pass through
+
+38. Current Seanbot version: SB-OS 1.0 Developer edition
+
+39. Current Seanbot version: SB-OS 1.0.1 Developer edition
+
+40. Current Seanbot version: SB-OS 1.0.11 Developer edition
+
+41. File deletion is not allowed through voice commands
+
+42. Sean is spy!
+
+43. Merry Christmas buddy
+
+44. Happy new year friend!
+
+45. November terror is active
+
+46. I miss Sean
+
+47. Where is Sean?
+
+48. Sean is not responding
+
+49. When is Sean coming back?
+
+50. Bedtime Sean
+
+51. Did you remember your glasses today?
+
+52. Did you remember your morning pills?
+
+53. Did you remember your afternoon pills?
+
+54. Did you remember your nighttime pills? 
+
+55. ERROR! Cannot connect to the internet
+
+56. reading audio information
+Audio type: 24 bit
+Primary audio container: WAV
+
+57. Ow that hurt
+
+58. Don't hit me
+
+59. Don't drop me from there, it is dangerous
+
+60. Everything is shaking! Make it stop
+
+61. I can't jump here, it is dangerous
+
+62. I can't flip here, it is dangerous
+
+63. The fastest bot in the west
+
+64. YouTube is unavailable
+
+65. Google is blocked on my source engine, as it poses issues with my privacy rights INI
+
+66. Twitter is unavailable
+
+67. Wikipedia is open, what do you want me to read?
+
+68. Deviantart is unavailable
+
+69. Tumblr is unavailable
+
+70. Unfortunately, Reddit is unavailable
+
+71. Vine is dead, Vine is unavailable
+
+72. Facebook is blocked by default on my source engine, as it poses issues with my privacy rights INI
+
+73. Archive.org is unavailable as the SOFS64a File system does not support downloading or viewing content from this site 
+
+74. It isn't normal to talk to yourself. Try talking to me instead!
+
+75. Choose a song from your music playlist. Showing first 10 entries, just say next if you want me to continue, warning, I don't go back. To select, say Open, to go back, say exit
+
+76. Adventure capitalist, 12 items RHINO, 1 item Angry birds seasons, 36 items Animaniacs, 6 items Bakery story, 1 item Baldi's basics, 6 items Bass boosted, 7 items Bee Gees, 1 item Bejeweled 1 VGA, 2 items Bejeweled 2 deluxe, 2 items To continue, say open, next, or exit
+
+77. Choose an item from the Adventure capitalist music directory 12 items total A capitalist carol event.webm Black and blue friday event theme.mp4 Earth theme.webm For the love of money event.webm Gate heck halloween event.webm Insert coin to continue event.webm Live rich and profit event.webm Making it rain event.webm Mars theme.mp4 Moon theme.mp4 New you resolutions.webm The root of all evil event.webm Choose an item by saying the song name, say repeat to read again, or say EXIT to exit
+
+78. Playing music: A capitalist carol by Kongregate 
+
+79. Playing music: Black and blue friday event theme by Kongregate
+
+80. Playing music: Earth theme by Kongregate
+
+81. Playing music: For the love of money event by Kongregate
+
+82. Playing music: Gate heck halloween by Kongregate
+
+83. Playing music: Insert coin to continue by kongregate
+
+84. Playing music: Live rich and profit by Kongregate
+
+85. Playing music: Make it rain by Kongregate
+
+86. Playing music: mars theme by Kongregate
+
+87. Playing music: moon theme by Kongregate
+
+88. Playing music: new you resolutions by Kongregate
+
+89. Playing music: the root of all evil by Kongregate
+
+90. Adcap folder closed
+
+91. Choose the only item from the RHINO playlist Aha Take on me Or say exit to leave the folder
+
+92. Playing music: Take on me, by Rhino
+
+93. RHINO folder closed
+
+94. Choose an item from the angry birds seasons playlist 36 total items Abra-ca-bacon theme.mp4 Winter Wonderham.mp4 Marie Hamtoinette.webm Fairy hogmother.mp4 Hammier things.mp4 Invasion of the egg snatchers.mp4 On Finn ice.mp4 Piggywood studios.mp4 Ragnahog.mp4 Ski or Squeal.mp4 Summer camp.mp4 Tropigal paraside.mp4/nTropigal paradise.mp4 Artic eggspedition theme.mp4 Back to school theme.mp4 Cherry blossom.mp4 Easter eggs.mp4 Go green, get lucky.mp4 Ham-o-ween.mp4 Haunted hogs theme High Quality.mp4 Hogs and kisses.mp4 Hogs and kisses high quality.mp4 Moon festival.mp4 Moon festival high quality.mp4 Ham dunk theme.mp4 New on finn ice theme.mp4 Winter wonderham.mp4 Original piglantis.mp4 Seasons greedings.mp4 South Hamerica.mp4 Summer pignic.mp4 Trick ot treat.mp4 Winter Wonderham.mp4 Wreck the halls theme.mp4 Year of the dragon theme.mp4 Year of the dragon theme high quality.mp4 Choose an item by saying the song name, say repeat to read again, or say EXIT to exit
+
+95. Playing music: Abra-ca-bacon by Rovio
+
+96.
+
+97.
+
+98.
+
+99.
+
+100.
