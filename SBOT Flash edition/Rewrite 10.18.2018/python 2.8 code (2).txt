@@ -1,0 +1,19 @@
+'''
+Write a program that takes three numbers as input and prints the largest.
+'''
+in1 = int(input("Enter a number (1 of 3): "))
+in2 = int(input("Enter a number (2 of 3): "))
+in3 = int(input("Enter a number (3 of 3): "))
+maxnum = (max(in1, in2, in3))
+print ("Largest: " + str(maxnum))
+
+lat = (40.59, 40.52, 40.621, 40.519, 40.56, 41.265, 40.61, 40.806, 41.259, 41.265, 41.264, 41.264, 41.259, 41.262, 41.263)
+lon = (69.532, 69.419, 69.354, 69.263, 69.478, 70.805, 69.706, 70.331, 70.815, 70.823, 70.815, 70.81, 70.824, 70.811, 70.811)
+nor = (max(lat))
+wes = (max(lon))
+eas = (min(lon))
+sou = (min(lat))
+print ("Farthest North = " + str(nor))
+print ("Farthest West = " + str(wes))
+print ("Farthest South = " + str(sou))
+print ("Farthest East = " + str(eas))
